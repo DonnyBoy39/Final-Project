@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Story of Buffalo and Goat</item>
+        <item>The Hare and the Tortoise</item>
+        <item>The Ant and The Grasshopper</item>
+        <item>Belling the Cat</item>
+    </string-array>
+</resources>

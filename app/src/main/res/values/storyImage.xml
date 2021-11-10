@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://s.yimg.com/ny/api/res/1.2/kPeX1ESsHIc7MMnxP3vgjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTQwMjtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/Grx8ZbfPfKL3OTReIYUyVA--~B/aD05MDA7dz0yMTQ4O2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/6f486777b89fde1229e342209136ff74</item>
+        <item>https://lh3.googleusercontent.com/iLfG4aKu1nAUYksmjKA-VxnenI_EUh7AXzAiWHfj1HI97jOy6EFz7dK5T7xpnnoB1F6U=s170</item>
+        <item>https://www.ekathimerini.com/wp-content/uploads/2019/06/grasshopper.jpg</item>
+        <item>https://www.kidsgen.com/stories/panchatantra/img/the-bell-and-the-cat.jpg</item>
+    </string-array>
+</resources>
